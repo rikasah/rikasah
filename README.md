@@ -95,14 +95,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=rikasah&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=rikasah&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rikasah&theme=radical&hide_border=true&cache_bust=1" />
+  <img src="https://raw.githubusercontent.com/rikasah/rikasah/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
