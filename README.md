@@ -14,7 +14,7 @@
 
 ---
 
-### 🙋‍♀️ A bit about me
+### 🙋‍♂️ A bit about me
 
 - 💼 Data Analyst at **Tech in Asia** (remote, Singapore), with 5+ years across Data & AI roles
 - 🌱 Currently deep in **LLM APIs, RAG pipelines, LangChain/LlamaIndex, and agentic AI**, slowly moving into AI Engineering
@@ -102,7 +102,7 @@
   <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=rikasah&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rikasah&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=rikasah&theme=radical&hide_border=true&cache_bust=1" />
 </p>
 
 ---
