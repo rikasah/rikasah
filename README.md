@@ -10,22 +10,22 @@
   <img src="https://img.shields.io/badge/Based%20in-Denpasar%2C%20Bali-success?style=for-the-badge" />
 </p>
 
-<h3 align="center">Ubah data mentah jadi keputusan, dan sekarang lagi keasyikan main-main sama LLM & agentic AI 🤖✨</h3>
+<h3 align="center">I turn messy data into decisions, and lately I'm having way too much fun with LLMs and agentic AI 🤖✨</h3>
 
 ---
 
-### 🙋‍♀️ Kenalan dulu
+### 🙋‍♀️ A bit about me
 
-- 💼 Data Analyst di **Tech in Asia** (remote, Singapore) — udah 5+ tahun gonta-ganti peran di dunia Data & AI
-- 🌱 Lagi dalemin **LLM APIs, RAG pipeline, LangChain/LlamaIndex, agentic AI** — pelan-pelan geser ke AI Engineering
-- 🏆 Pernah dinobatin **Best Mentor AI & Data Science** di Startup Campus SIB Batch 6 (Kemendikbud RI) — lumayan buat modal pamer 😄
-- 👯 Aktif jadi mentor di **10+ program nasional** (Startup Campus, Hacktiv8 SIC, Skilvul, DQLab, BISA AI, Dibimbing.id)
-- 💬 Bisa diajak ngobrol soal ML/DL, NLP, data pipeline, A/B testing, sampai dashboard yang enak dilihat
-- 📫 Colek aja ke **rikasahriana28@gmail.com**
+- 💼 Data Analyst at **Tech in Asia** (remote, Singapore), with 5+ years across Data & AI roles
+- 🌱 Currently deep in **LLM APIs, RAG pipelines, LangChain/LlamaIndex, and agentic AI**, slowly moving into AI Engineering
+- 🏆 Named **Best Mentor in AI & Data Science** at Startup Campus SIB Batch 6 (Ministry of Education, Republic of Indonesia)
+- 👯 Active mentor across **10+ national programs** (Startup Campus, Hacktiv8 SIC, Skilvul, DQLab, BISA AI, Dibimbing.id)
+- 💬 Happy to talk ML/DL, NLP, data pipelines, A/B testing, or dashboards that don't hurt to look at
+- 📫 Reach out at **rikasahriana28@gmail.com**
 
 ---
 
-### 🧰 Senjata sehari-hari
+### 🧰 Everyday toolkit
 
 **AI & LLM**
 <p>
@@ -68,45 +68,45 @@
 
 ---
 
-### 🚀 Proyek yang paling dibanggain
+### 🚀 Projects I'm proud of
 
-- **[Real-Time Fraud Detection System](https://github.com/rikasah)** — `Python` `Kafka` `Cassandra` `Scikit-learn` `Flask`
-  Mesin deteksi fraud real-time dari data transaksi streaming. Berhasil nurunin potensi kerugian finansial 5–10% dan naikin promoter rate 10–15%.
+- **[Real-Time Fraud Detection System](https://github.com/rikasah)** `Python` `Kafka` `Cassandra` `Scikit-learn` `Flask`
+  Built a real-time fraud detection engine on streaming transaction data. Cut potential financial loss by 5 to 10% and boosted promoter rate by 10 to 15%.
 
-- **[Stock Price Prediction with Deep Learning](https://github.com/rikasah)** — `Python` `LSTM` `TensorFlow`
-  Model LSTM & Ridge Regression buat kasih sinyal buy/sell dari data harga saham historis.
+- **[Stock Price Prediction with Deep Learning](https://github.com/rikasah)** `Python` `LSTM` `TensorFlow`
+  Trained LSTM and Ridge Regression models to generate buy/sell signals from historical stock data.
 
-- **[Stock Sentiment Analysis (NLP)](https://github.com/rikasah)** — `Python` `NLP` `Twitter API`
-  Analisis sentimen dari tweet publik sebagai sinyal tambahan buat keputusan trading.
+- **[Stock Sentiment Analysis (NLP)](https://github.com/rikasah)** `Python` `NLP` `Twitter API`
+  Ran sentiment analysis on public tweets as a supplementary signal for trading decisions.
 
-> 💡 Nanti ganti link di atas sama repo aslinya, terus pin repo-repo ini di profil biar muncul sebagai card.
+> 💡 Swap the links above with the real repos once they're pinned, so they show up as cards on your profile.
 
 ---
 
-### 📈 Angka-angka yang lumayan bikin bangga
+### 📈 Numbers I'm happy about
 
-| Metrik | Hasil |
+| Metric | Result |
 |---|---|
-| Uplift user engagement | **+12%** |
-| Waktu bikin laporan | **−80%** |
-| Kenaikan click-through rate | **+15%** |
-| Uplift user retention | **+7%** |
-| Penurunan kerugian akibat fraud | **5–10%** |
+| User engagement uplift | **+12%** |
+| Report generation time | **down 80%** |
+| Click through rate lift | **+15%** |
+| User retention uplift | **+7%** |
+| Fraud loss reduction | **5 to 10%** |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rikasah&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikasah&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=rikasah&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=rikasah&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikasah&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=rikasah&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6AE,100:6D5BFF&height=100&section=footer" />
 
-<p align="center"><i>Makasih udah mampir ke profil aku ✨ — kalau mau ngobrolin data, AI, atau kolaborasi, gas DM aja!</i></p>
+<p align="center"><i>Thanks for stopping by. If you want to talk data, AI, or collaboration, feel free to DM me.</i></p>
